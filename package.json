@@ -1,0 +1,23 @@
+{
+  "name": "cg-app",
+  "version": "1.0.0",
+  "description": "- 👋 Hi, I’m @chandreshjulian - 👀 I’m interested in Javascript - 🌱 I’m currently learning DevOps - 💞️ I’m looking to collaborate on ... - 📫 How to reach me ...",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chandreshjulian/chandreshjulian.git"
+  },
+  "author": "chandreshjulian",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chandreshjulian/chandreshjulian/issues"
+  },
+  "homepage": "https://github.com/chandreshjulian/chandreshjulian#readme",
+  "dependencies": {
+    "express": "^4.17.3"
+  }
+}
